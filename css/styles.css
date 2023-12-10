@@ -52,6 +52,16 @@ a{
     word-wrap: break-word
 }
 
+.header-menu-list-a{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    
+}
+
+
 .header-menu-list-a:hover {
     color: #404BBF;
 }
