@@ -124,7 +124,7 @@ a{
 
 
 .strategy h3 {
-    font-weight: 500 
+    font-weight: 500; 
     font-size: 20px;
 }
 
@@ -162,5 +162,15 @@ a{
 }
 
 .team{
-    background-color: #F4F4FD
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    background-color: #F4F4FD;
+    color: #434455;
+
+
+}
+
+.strategy_p{
+    font-size: 16px;
+
 }
