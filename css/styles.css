@@ -23,7 +23,7 @@ a{
 .header-logo {
     color: #4D5AE5;
     font-size: 18px;
-    font-family: "Raleway";
+    font-family: "Raleway",sans-serif;
     font-weight: 700;
     text-transform: uppercase;
     line-height: 1.17px;
@@ -77,20 +77,21 @@ a{
 /*================HERO===========*/
 
 .hero {
+    
     background-color: #2E2F42 ; 
     
 }
 
 
 .hero-title {
+    text-align: center;
     color: white;
     font-size: 56px;
     font-family: "Roboto";
     font-weight: 700;
-    line-height: 60px;
-    letter-spacing: 1.07px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
     word-wrap: break-word
-    text-align: center;
 }
 
 
