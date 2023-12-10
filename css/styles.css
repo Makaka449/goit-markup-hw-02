@@ -98,6 +98,10 @@ a{
     background-color: #404BBF;
 }
 
+.hero-btm:hover {
+    background-color: #404BBF;
+}
+
 .strategy {
 }
 
@@ -111,6 +115,10 @@ a{
 }
 
 .footer-logo{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17
     
 }
 
@@ -119,7 +127,7 @@ a{
     font-size: 18px;
     font-family: Raleway;
     font-weight: 700;
-    text-transform: uppercase;
+    
     line-height: 21px;
     letter-spacing: 0.54px;
     word-wrap: break-word
@@ -130,7 +138,7 @@ a{
     font-size: 18px;
     font-family: Raleway;
     font-weight: 700;
-    text-transform: uppercase;
+    
     line-height: 21px;
     letter-spacing: 0.54px;
     word-wrap: break-word
