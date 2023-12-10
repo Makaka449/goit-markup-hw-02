@@ -29,7 +29,7 @@ a{
     line-height: 1.07px;
     letter-spacing: 0.54px;
     word-wrap: break-word
-    
+
 }
 
 .header-logo-web{
@@ -38,7 +38,7 @@ a{
     font-family: Raleway;
     font-weight: 700;
     text-transform: uppercase;
-    line-height: 21px;
+    line-height: 1.07px;
     letter-spacing: 0.54px;
     word-wrap: break-word
 }
@@ -94,7 +94,7 @@ a{
     background-color: #404BBF;
 }
 
-.hero-btm:hover {
+.hero-btm:focus {
     background-color: #404BBF;
 }
 
@@ -134,4 +134,8 @@ a{
     line-height: 21px;
     letter-spacing: 0.54px;
     word-wrap: break-word
+}
+
+.team{
+    background-color: #F4F4FD
 }
