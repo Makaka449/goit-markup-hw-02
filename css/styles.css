@@ -16,17 +16,21 @@ a{
 
 /*==============HEADER=============*/
 
-.header {
+.header{
+
 }
-.header-nav {
+
+.header_nav{
+
 }
+
 .header-logo {
     color: #2E2F42;
     font-size: 18px;
-    font-family: Raleway;
+    font-family: "Raleway";
     font-weight: 700;
     text-transform: uppercase;
-    line-height: 1.07px;
+    line-height: 1.17px;
     letter-spacing: 0.54px;
     word-wrap: break-word
 
@@ -103,6 +107,7 @@ a{
 }
 
 .strategy {
+    line-height: 1.07
 }
 
 .footer{
@@ -115,6 +120,10 @@ a{
 }
 
 .footer-logo{
+    color: #4D5AE5;
+    text-transform: uppercase;
+    line-height: 21px;
+    letter-spacing: 0.54px;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -122,16 +131,6 @@ a{
     
 }
 
-.footer-logo-web{
-    color: #4D5AE5;
-    font-size: 18px;
-    font-family: Raleway;
-    font-weight: 700;
-    
-    line-height: 21px;
-    letter-spacing: 0.54px;
-    word-wrap: break-word
-}
 
 .footer-logo-Studio{
     color: #F4F4FD;
