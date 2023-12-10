@@ -110,6 +110,11 @@ a{
     line-height: 1.07
 }
 
+.strategy h3 {
+    font-weight: 500 
+    font-size: 20px;
+}
+
 .footer{
     background-color: #2e2f42;
 }
@@ -117,6 +122,7 @@ a{
 .footer-p{
     color: #F4F4FD;
     letter-spacing: 0.02em;
+    line-height: 1.5
 }
 
 .footer-logo{
