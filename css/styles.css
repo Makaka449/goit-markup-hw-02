@@ -26,7 +26,7 @@ a{
     font-family: "Raleway",sans-serif;
     font-weight: 700;
     text-transform: uppercase;
-    line-height: 1.17px;
+    line-height: 1.17;
     letter-spacing: 0.54px;
     word-wrap: break-word
 }
@@ -37,7 +37,7 @@ a{
     font-family: "Raleway";
     font-weight: 700;
     text-transform: uppercase;
-    line-height: 21px;
+    line-height: 1.17;
     letter-spacing: 0.54px;
     word-wrap: break-word
 }
@@ -129,10 +129,20 @@ a{
     line-height: 1.07
 }
 
-
-.strategy h3 {
-    font-weight: 500; 
+.strategy-h3{
+    font-weight: 500;
     font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.strategy_p{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    
 }
 
 .footer{
@@ -177,10 +187,7 @@ a{
 
 }
 
-.strategy_p{
-    font-size: 16px;
 
-}
 
 /*=== Our Portfolio ===*/
 
