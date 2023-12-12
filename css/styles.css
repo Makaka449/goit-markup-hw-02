@@ -72,6 +72,10 @@ a{
     color: #404BBF;
 }
 
+.header_menu_list_a:focus {
+    color: #404BBF;
+}
+
 .header-menu-item {  
     color: #434455;
     font-size: 16px;
@@ -83,7 +87,15 @@ a{
 
 }
 
+.header-menu-item-a{  
+    color: #434455;
+}
+
 .header-menu-item-a:hover {  
+    color: #404BBF;
+}
+
+.header-menu-item-a:focus {  
     color: #404BBF;
 }
 
